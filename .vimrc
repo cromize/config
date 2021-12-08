@@ -6,4 +6,4 @@ set ai
 set number
 set hlsearch
 set ruler
-highligh Comment ctermfg=green
+highlight Comment ctermfg=green
